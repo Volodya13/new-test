@@ -352,7 +352,7 @@ img {
 }
 .modal_active {
     transform: translateY(0);
-    transition: all .3s;
+    transition: all .6s;
 }
 .modal .modal_closer {
     position: absolute;
